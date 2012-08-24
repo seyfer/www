@@ -1,0 +1,20 @@
+<?php defined('SYSPATH') or die('No direct access allowed.');
+
+return array
+(
+	'default' => array
+	(
+		'type'       => 'mysql',
+		'connection' => array(
+			'hostname'   => 'localhost',
+			'database'   => 'kohana',
+			'username'   => 'root',
+			'password'   => FALSE,
+			'persistent' => FALSE,
+		),
+		'table_prefix' => 'hay_',
+		'charset'      => 'utf8',
+		'caching'      => FALSE,
+		'profiling'    => TRUE,
+	),
+);

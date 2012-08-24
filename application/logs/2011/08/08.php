@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-08-08 10:39:38 --- ERROR: Database_Exception [ 0 ]: [1146] Table 'kohana.categories' doesn't exist ( SHOW FULL COLUMNS FROM `categories` ) ~ MODPATH\database\classes\kohana\database\mysql.php [ 181 ]
+2011-08-08 10:39:39 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:39:49 --- ERROR: Database_Exception [ 0 ]: [1146] Table 'kohana.haycategories' doesn't exist ( SHOW FULL COLUMNS FROM `haycategories` ) ~ MODPATH\database\classes\kohana\database\mysql.php [ 181 ]
+2011-08-08 10:39:49 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:39:53 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:39:54 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:39:55 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:39:56 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:03 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:04 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:04 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:06 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:07 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
+2011-08-08 10:40:29 --- ERROR: HTTP_Exception_404 [ 404 ]: Unable to find a route to match the URI: favicon.ico ~ SYSPATH\classes\kohana\request.php [ 743 ]
